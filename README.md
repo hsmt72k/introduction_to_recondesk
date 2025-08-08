@@ -2,6 +2,8 @@
   <img src="./images/recondesk_cover.png" />
 </kbd>
 
+<br />
+
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
