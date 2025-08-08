@@ -194,7 +194,9 @@ https://recondesk.vercel.app
 
 #### 🗝️ Google ログイン
 
-<img src="./images/login.png" width="360px" />
+<kbd>
+  <img src="./images/login.png" width="360px" />
+</kbd>
 
 ---
 
