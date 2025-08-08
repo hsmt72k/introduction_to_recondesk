@@ -1,8 +1,4 @@
-<kbd>
-  <img src="./images/recondesk_cover.png" />
-</kbd>
-
-<br />
+<img src="./images/recondesk_cover.png" />
 
 <div align="center">
   <div>
