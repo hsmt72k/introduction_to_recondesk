@@ -183,8 +183,8 @@ https://recondesk.vercel.app
 <video src="https://github.com/user-attachments/assets/4117b3bd-8628-4857-93fa-62c17fab7810" controls="true"></video>
 
 ##### アップロード / 共有デモ
-<!-- ./images/baboo_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/4117b3bd-8628-4857-93fa-62c17fab7810" controls="true"></video>
+<!-- ./images/recondesk_upload_demo.mp4 -->
+<video src="https://github.com/user-attachments/assets/4eb3e95e-9a6a-48a4-8c54-b8ae3b02c83b" controls="true"></video>
 
 ---
 
