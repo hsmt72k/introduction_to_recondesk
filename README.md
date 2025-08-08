@@ -1,4 +1,6 @@
-<img src="./images/recondesk_cover.png" />
+<kbd>
+  <img src="./images/recondesk_cover.png" />
+</kbd>
 
 <div align="center">
   <div>
@@ -206,7 +208,9 @@ https://recondesk.vercel.app
 - プロフィールボタン
 - 🔐 ログアウトボタン
 
-<img src="./images/header_nav.png" width="360px" />
+<kbd>
+  <img src="./images/header_nav.png" width="360px" />
+</kbd>
 
 ---
 
@@ -218,7 +222,9 @@ https://recondesk.vercel.app
 - 動画アップロードボタン
 - 画面録画ボタン
 
-<img src="./images/movie_list.png" width="360px" />
+<kbd>
+  <img src="./images/movie_list.png" width="360px" />
+</kbd>
 
 ---
 
@@ -231,7 +237,9 @@ https://recondesk.vercel.app
 - 公開設定（公開/非公開）選択ボックス
 - アップロードボタン
 
-<img src="./images/upload_page.png" width="360px" />
+<kbd>
+  <img src="./images/upload_page.png" width="360px" />
+</kbd>
 
 ---
 
@@ -248,11 +256,15 @@ https://recondesk.vercel.app
 
 #### 文字起こしタブ
 
-<img src="./images/script_tab_in_movie_id_page.png" width="360px" />
+<kbd>
+  <img src="./images/script_tab_in_movie_id_page.png" width="360px" />
+</kbd>
 
 #### 動画情報タブ
 
-<img src="./images/movie_info_tab_in_movie_id_page.png" width="360px" />
+<kbd>
+  <img src="./images/movie_info_tab_in_movie_id_page.png" width="360px" />
+</kbd>
 
 ---
 
@@ -263,7 +275,9 @@ https://recondesk.vercel.app
 - ユーザー名
 - アップロード済み動画一覧
 
-<img src="./images/profile_page.png" width="360px" />
+<kbd>
+  <img src="./images/profile_page.png" width="360px" />
+</kbd>
 
 ---
 
