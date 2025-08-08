@@ -175,8 +175,8 @@ https://recondesk.vercel.app
 3. **共有**：自動生成されたリンクを取得
 
 ##### 検索デモ
-<!-- ./images/baboo_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/4117b3bd-8628-4857-93fa-62c17fab7810" controls="true"></video>
+<!-- ./images/recondesk_search_demo.mp4 -->
+<video src="https://github.com/user-attachments/assets/bb871b36-1e2c-46a7-b845-0d1a5a201c91" controls="true"></video>
 
 ##### 画面録画デモ
 <!-- ./images/baboo_demo.mp4 -->
